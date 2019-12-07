@@ -1,0 +1,17 @@
+body {
+  background-color: #ffffff;
+  color: #1dadc0;
+}
+
+.hero p {
+  color: #ffffff;
+}
+
+.hero span {
+  color: #dddddd;
+}
+
+.hero span ul {
+  stroke-width: 1px;
+}
+/*# sourceMappingURL=style.css.map */
